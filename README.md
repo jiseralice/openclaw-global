@@ -10,6 +10,12 @@
 <p align="center">
   <strong>EXFOLIATE! EXFOLIATE!</strong>
 </p>
+<p align="center">
+  <strong>
+      <a href="https://github.com/jiseralice/openclaw-global/blob/main/README-EN.md">English</a>   &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/jiseralice/openclaw-global/blob/main/README-CN.md">中文版</a>
+  </strong>
+</p>
 
 <p align="center">
   <a href="https://github.com/openclaw/openclaw/actions/workflows/ci.yml?branch=main"><img src="https://img.shields.io/github/actions/workflow/status/openclaw/openclaw/ci.yml?branch=main&style=for-the-badge" alt="CI status"></a>
